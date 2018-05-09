@@ -19,7 +19,7 @@ namespace UnitTests
             int[] res = prep.SortDescending(arr);
 
             Assert.AreEqual(arr.Length, res.Length);
-            Assert.AreEqual<int[]>(new int[] { 3, 2, 1 }, res);
+            CollectionAssert.AreEqual(new int[] { 3, 2, 1 }, res);
         }
 
         //TODO: It is a good idea to write more tests, to ensure the Contracts work as intended
