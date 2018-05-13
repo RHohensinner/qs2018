@@ -1,0 +1,11 @@
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\MessageBoard\MessageBoard\bin\Debug\MessageBoard.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\MessageBoard\MessageBoard\bin\Debug\MessageBoard.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\MessageBoard\MessageBoard\obj\Debug\MessageBoard.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\MessageBoard\MessageBoard\obj\Debug\MessageBoard.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\MessageBoard\MessageBoard\obj\Debug\MessageBoard.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\MessageBoard\MessageBoard\bin\Debug\CodeContracts\MessageBoard.Contracts.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\MessageBoard\MessageBoard\bin\Debug\CodeContracts\MessageBoard.Contracts.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\MessageBoard\MessageBoard\obj\Debug\Decl\MessageBoard.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\MessageBoard\MessageBoard\obj\Debug\Decl\MessageBoard.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\MessageBoard\MessageBoard\obj\Debug\MessageBoardccrefgen.rsp
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\MessageBoard\MessageBoard\obj\Debug\MessageBoard.rewritten

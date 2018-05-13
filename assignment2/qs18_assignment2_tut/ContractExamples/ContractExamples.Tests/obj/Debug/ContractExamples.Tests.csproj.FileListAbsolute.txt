@@ -1,0 +1,9 @@
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\ContractExamples\ContractExamples.Tests\bin\Debug\ContractExamples.Tests.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\ContractExamples\ContractExamples.Tests\bin\Debug\ContractExamples.Tests.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\ContractExamples\ContractExamples.Tests\bin\Debug\ContractExamples.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\ContractExamples\ContractExamples.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\ContractExamples\ContractExamples.Tests\bin\Debug\ContractExamples.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\ContractExamples\ContractExamples.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\ContractExamples\ContractExamples.Tests\obj\Debug\ContractExamples.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\ContractExamples\ContractExamples.Tests\obj\Debug\ContractExamples.Tests.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\ContractExamples\ContractExamples.Tests\obj\Debug\ContractExamples.Tests.pdb

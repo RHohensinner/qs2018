@@ -22,8 +22,10 @@ namespace InterfaceContractsExample
         public double sqrt(double x)
         {
             Contract.Requires(x >= 0);
+            Contract.Requires(x >= Contract.Result<double>());
 
             Contract.Ensures(Math.Abs(x - Contract.Result<double>() * Contract.Result<double>()) < 0.0001);
+            Contract.Ensures(x >= Contract.Result<double>());
 
             return default(double);
         }

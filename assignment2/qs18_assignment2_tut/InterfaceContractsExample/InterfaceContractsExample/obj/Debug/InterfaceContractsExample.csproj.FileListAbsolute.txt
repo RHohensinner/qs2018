@@ -1,0 +1,4 @@
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample\bin\Debug\InterfaceContractsExample.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample\bin\Debug\InterfaceContractsExample.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample\obj\Debug\InterfaceContractsExample.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample\obj\Debug\InterfaceContractsExample.pdb

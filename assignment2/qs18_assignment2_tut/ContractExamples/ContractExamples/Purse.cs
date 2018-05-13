@@ -29,6 +29,7 @@ namespace ContractExamples
             Contract.Requires(p != null && p.Length == 4);
             Contract.Requires(Contract.ForAll(0, p.Length, i => 0 <= p[i] && p[i] <= 9));
 
+            //Contract.Ensures(0 < mb && 0 <= b && b <= mb);
             Contract.Ensures(MAX_BALANCE == mb && balance == b);
             Contract.Ensures(Contract.ForAll(0, p.Length, i => pin[i] == p[i]));
 

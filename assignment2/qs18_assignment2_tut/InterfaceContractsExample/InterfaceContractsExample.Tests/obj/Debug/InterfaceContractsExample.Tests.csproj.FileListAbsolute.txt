@@ -1,0 +1,9 @@
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample.Tests\bin\Debug\InterfaceContractsExample.Tests.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample.Tests\bin\Debug\InterfaceContractsExample.Tests.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample.Tests\bin\Debug\InterfaceContractsExample.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample.Tests\bin\Debug\InterfaceContractsExample.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample.Tests\obj\Debug\InterfaceContractsExample.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample.Tests\obj\Debug\InterfaceContractsExample.Tests.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_tut\InterfaceContractsExample\InterfaceContractsExample.Tests\obj\Debug\InterfaceContractsExample.Tests.pdb

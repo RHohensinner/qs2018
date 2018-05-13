@@ -39,6 +39,8 @@ namespace InterfaceContractsExample
             IExamples ex = new Mutant();
 
             double result = ex.sqrt(9);
+
+            Assert.AreEqual(result, 81);
         }
 
 
