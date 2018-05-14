@@ -1,0 +1,11 @@
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\ExamPreparation\bin\Debug\CodeContracts\ExamPreparation.Contracts.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\ExamPreparation\bin\Debug\CodeContracts\ExamPreparation.Contracts.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\ExamPreparation\bin\Debug\ExamPreparation.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\ExamPreparation\bin\Debug\ExamPreparation.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\ExamPreparation\obj\Debug\Decl\ExamPreparation.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\ExamPreparation\obj\Debug\Decl\ExamPreparation.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparationccrefgen.rsp
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.rewritten
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.pdb

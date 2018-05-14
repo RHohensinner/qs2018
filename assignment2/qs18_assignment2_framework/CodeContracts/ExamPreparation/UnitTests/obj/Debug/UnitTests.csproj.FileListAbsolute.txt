@@ -1,0 +1,14 @@
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\bin\Debug\CodeContracts\UnitTests.Contracts.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\bin\Debug\CodeContracts\UnitTests.Contracts.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\bin\Debug\ExamPreparation.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\bin\Debug\ExamPreparation.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\obj\Debug\Decl\UnitTests.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\obj\Debug\Decl\UnitTests.pdb
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\obj\Debug\UnitTestsccrefgen.rsp
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\obj\Debug\UnitTests.rewritten
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Richard\Desktop\qs\git\assignment2\qs18_assignment2_framework\CodeContracts\ExamPreparation\UnitTests\obj\Debug\UnitTests.pdb
