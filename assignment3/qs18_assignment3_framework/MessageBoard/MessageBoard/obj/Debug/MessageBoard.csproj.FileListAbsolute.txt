@@ -1,0 +1,10 @@
+C:\Users\Richard\Desktop\qs\git\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoard\bin\Debug\CodeContracts\MessageBoard.Contracts.dll
+C:\Users\Richard\Desktop\qs\git\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoard\bin\Debug\CodeContracts\MessageBoard.Contracts.pdb
+C:\Users\Richard\Desktop\qs\git\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoard\bin\Debug\MessageBoard.dll
+C:\Users\Richard\Desktop\qs\git\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoard\bin\Debug\MessageBoard.pdb
+C:\Users\Richard\Desktop\qs\git\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoard\obj\Debug\Decl\MessageBoard.dll
+C:\Users\Richard\Desktop\qs\git\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoard\obj\Debug\Decl\MessageBoard.pdb
+C:\Users\Richard\Desktop\qs\git\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoard\obj\Debug\MessageBoardccrefgen.rsp
+C:\Users\Richard\Desktop\qs\git\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoard\obj\Debug\MessageBoard.rewritten
+C:\Users\Richard\Desktop\qs\git\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoard\obj\Debug\MessageBoard.dll
+C:\Users\Richard\Desktop\qs\git\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoard\obj\Debug\MessageBoard.pdb

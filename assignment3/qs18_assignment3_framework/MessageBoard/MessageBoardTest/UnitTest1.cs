@@ -10,7 +10,9 @@ namespace MessageBoard
         [TestMethod]
         public void TestMethod1()
         {
-            throw new NotImplementedException();
+            var config = Configuration.VerboseThrowOnFailure;
+            config.MaxNbOfTest = 2000;
+            new MessageBoardSpecification().ToProperty().Check(config);
         }
     }
 }

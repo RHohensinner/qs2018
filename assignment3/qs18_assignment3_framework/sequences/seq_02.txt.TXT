@@ -1,0 +1,20 @@
+Test Name:	TestMethod1
+Test FullName:	MessageBoard.UnitTest1.TestMethod1
+Test Source:	~assignment3\qs18_assignment3_framework\MessageBoard\MessageBoardTest\UnitTest1.cs : line 12
+Test Outcome:	Failed
+Test Duration:	0:00:00,373422
+
+Result StackTrace:	
+bei <StartupCode$FsCheck>.$Runner.get_throwingRunner@373-1.Invoke(String message) in C:\Users\Kurt\Projects\FsCheck\FsCheck\src\FsCheck\Runner.fs:Zeile 373.
+   bei <StartupCode$FsCheck>.$Runner.get_throwingRunner@363.FsCheck-IRunner-OnFinished(String name, TestResult testResult) in C:\Users\Kurt\Projects\FsCheck\FsCheck\src\FsCheck\Runner.fs:Zeile 373.
+   bei FsCheck.Runner.check[a](Config config, a p) in C:\Users\Kurt\Projects\FsCheck\FsCheck\src\FsCheck\Runner.fs:Zeile 283.
+   bei FsCheck.CheckExtensions.Check(Property property, Configuration config) in C:\Users\Kurt\Projects\FsCheck\FsCheck\src\FsCheck\RunnerExtensions.fs:Zeile 98.
+   bei MessageBoard.UnitTest1.TestMethod1() in C:\Users\Richard\Desktop\qs\git\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoardTest\UnitTest1.cs:Zeile 15.
+Result Message:	
+Test method MessageBoard.UnitTest1.TestMethod1 threw exception: 
+System.Exception: Falsifiable, after 47 tests (0 shrinks) (StdGen (1555811406,296460116)):
+Original:
+[Publish(Richard,Hello) [R2] Violated: Message already exists!;
+ Like(Richard,Hello, liked by:Maria) ;
+ Like(Richard,Hello, liked by:Maria) [R7] Violated: Model was unsuccessfull but no OperationFailed was received!]
+

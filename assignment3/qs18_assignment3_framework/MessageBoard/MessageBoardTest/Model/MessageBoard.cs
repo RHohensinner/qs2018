@@ -18,7 +18,14 @@ namespace MessageBoard
 
         public MessageBoard()
         {
-            throw new NotImplementedException();
+            // init system client and dispatcher
+            System = new SimulatedActorSystem();
+            Client = new TestClient();
+            Dispatcher = new Dispatcher(System, 1);
+
+            // spawning client and dispatcher
+            System.Spawn(Client);
+            System.Spawn(Dispatcher);
         }
     }
 }

@@ -1,0 +1,7 @@
+Test Name:	TestMethod1
+Test FullName:	MessageBoard.UnitTest1.TestMethod1
+Test Source:	~\assignment3\qs18_assignment3_framework\MessageBoard\MessageBoardTest\UnitTest1.cs : line 12
+Test Outcome:	Passed
+Test Duration:	0:00:33,9339283
+
+
